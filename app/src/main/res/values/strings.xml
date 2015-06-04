@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FasterMasterBlaster</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="resistanceNumber">Enter the resistant number, rounded to nearest tenth</string>
+    <string name="getFirstTwo">Enter fully selected stop-points</string>
+    <string name="numberOne">#1</string>
+    <string name="numberTwo">#2</string>
+    <string name="widthPrompt">Which stop-point is wider?</string>
+</resources>
